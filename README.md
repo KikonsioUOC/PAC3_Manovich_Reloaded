@@ -3,7 +3,7 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: ### Enrique Barberà Ucher
+Autor: Enrique Barberà Ucher
 
 
 Fecha: 
