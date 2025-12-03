@@ -7,7 +7,7 @@ Autor: Enrique Barberà Ucher
 
 Fecha: 17/12/2025
 
-![Zwift](https://cdn.mos.cms.futurecdn.net/roPCehd6ZdWLUNU7MYSQEc.jpg)
+![Captura Zwift](img/Hot Laps in Watopia.jpeg)
 
 
 ## Introducció
