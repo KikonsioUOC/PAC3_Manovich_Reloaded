@@ -37,7 +37,7 @@ Una de les coses que més valore és que Strava transforma qualsevol entrenament
 
 Per això crec que Strava és un bon exemple d’hibridació moderna: el cos, les dades, l’espai i la comunitat no estan per separat, sinó que formen una experiència única i coherent. És la manera actual d’entendre l’esport a través del programari.
 
-![Captura Strava](img/Disseny_STRAVA)
+![Captura Strava](img/Disseny_STRAVA.jpeg)
 
 ## Cas 2 - Zwift: l'esport com a experiència simulada. Un nou espai esportiu.
 
